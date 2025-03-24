@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b5d08f4ec244054fa53ba0940dd13af, type: 3}
+  m_Name: New Skin Database
+  m_EditorClassIdentifier: 
+  skins:
+  - characterName: Blue slime
+    characterSprite: {fileID: -3319088904768744982, guid: bed02f39e92506f4b8c658e886e1e632, type: 3}
+  - characterName: Green slime
+    characterSprite: {fileID: -6842596766130716067, guid: cae8492ac8280234daf65f19bff16673, type: 3}
+  - characterName: Rainbow slime
+    characterSprite: {fileID: 1125330218705429748, guid: db8af6f4990167d4b9c892e5c4e9d64e, type: 3}
+  - characterName: Bee slime
+    characterSprite: {fileID: -5757632176186581771, guid: 0a27a12bbe68262449358d0da2a0dbf4, type: 3}
