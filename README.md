@@ -55,5 +55,6 @@ This jumping platformer game is a 2D side-scrolling adventure where players cont
 
 ---
 Here is demo link: https://youtu.be/yKu-iHIJ3lU
+Here is game demo: https://dangthanh1903.itch.io/slimeventure (Old version)
 
 **Enjoy!**
